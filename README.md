@@ -27,6 +27,8 @@ Daily-Practise-Automation testing/ |-e2e/ |-Assignments/ |-Construct week/ |-Tut
    4- Run "npm install cypress --save-dev" in the terminal to install cypress 
    ## Walk through of the project
    Testing the web application using cypress automation testing tool and used Page Object Model to write test script for test scenario and test cases.
+   ## ATTACHMENTS
+   https://drive.google.com/file/d/1O4e_bf5TGB2g8NmQscnjByA6PVWZuwu0/view?usp=drive_link
    
    ## ## RECOMMENDATION AND SUGGESTION
   Based on examination of the Tutorials Ninja web application here are following suggestion
