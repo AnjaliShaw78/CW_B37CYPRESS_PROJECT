@@ -7,7 +7,7 @@
 ## Deplolyed App
   https://tutorialsninja.com/demo/
 ## Directory Structure
-Daily-Practise-Automation testing/ |-e2e/ |-Assignments/ |-Construct week/ |-Tutorials Ninja-project/
+Daily-Practise-Automation testing/ |-e2e/ |-Assignments/ |-Construct week/ |-Tutorials Ninja-project/ |-Install VS code/ |-Install Node.js/ |-Install Cypress/
 ## Credentials 
  "user email"-"shawanjali0708@gmail.com"
  "password"-"Hello2#"
@@ -25,5 +25,22 @@ Daily-Practise-Automation testing/ |-e2e/ |-Assignments/ |-Construct week/ |-Tut
    the root of your project to ensure Cypress is installed in the correct directory.
    
    4- Run "npm install cypress --save-dev" in the terminal to install cypress 
-   ##
+   ## Walk through of the project
+   Testing the web application using cypress automation testing tool and used Page Object Model to write test script for test scenario and test cases.
+   
+   ## ## RECOMMENDATION AND SUGGESTION
+  Based on examination of the Tutorials Ninja web application here are following suggestion
+  
+  1-Add photos of every product: It will allow user to find products
+  
+  2-Enable downloads option: It will  help user to know the details of placed orders
+  
+  3-Show a notification for non-available products in the home page
+
+  4-Provide notification for forget password in email
+  
+  ## FEEDBACK
+  If you have any feedback to give ,please connect me at  
+  shawanjali0708@gmail.com
+ 
 
