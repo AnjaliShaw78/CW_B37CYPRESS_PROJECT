@@ -2,7 +2,8 @@
 ## INTRODUCTION
  Tutorials Ninja is an e-commerce website for shopping of electronics and digital items.Here I perform 
  functional and usabilty testing usting automation testing tool by using Page Object model 
- ![Uploading Screenshot 2024-09-16 174034.png…]()
+![Screenshot 2024-09-16 174034](https://github.com/user-attachments/assets/823982a7-a9cf-411f-8ebd-43cc01198cca)
+
  ## PROJECT TYPE
   Automation testing by using Cypress
 ## Deplolyed App
