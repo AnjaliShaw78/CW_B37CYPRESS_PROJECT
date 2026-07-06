@@ -1,4 +1,3 @@
-# CW_B37CYPRESS_PROJECT
 # TUTORIALS NINJA - An e-commerce website for shopping 
 ## INTRODUCTION
  Tutorials Ninja is an e-commerce website for shopping of electronics and digital items.Here I perform 
